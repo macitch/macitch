@@ -37,3 +37,5 @@
   <img alt="Adobe XD" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg">
   <img alt="Adobe Photoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codepett&show_icons=true&locale=en" alt="codepett" /></p>
