@@ -38,4 +38,8 @@
   <img alt="Adobe Photoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codepett&show_icons=true&locale=en&layout=compact" alt="codepett" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codepett&show_icons=true&locale=en" alt="codepett" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codepett&" alt="codepett" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codepett&show_icons=true&locale=en" alt="codepett" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codepett&" alt="codepett" /></p>
