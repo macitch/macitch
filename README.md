@@ -7,7 +7,7 @@
 
 - 🌱 **I’m currently exploring the latest SwiftUI features, enhancing my Swift concurrency skills, and diving deeper into design systems to elevate the overall user experience.**
 
-- 👨‍💻 All of my projects are available at **[behance](https://www.behance.net/hugemistake)**
+- 👨‍💻 All of my projects are available at **[Behance](https://www.behance.net/hugemistake)**
 
 - 📝 I regularly write articles on **[@codepett](https://medium.com/@codepett)**
 
