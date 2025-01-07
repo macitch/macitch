@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on as a **Freelancer**
 
-- 🌱 **I’m currently exploring the latest SwiftUI features, enhancing my Swift concurrency skills, and diving deeper into design systems to elevate the overall user experience.**
+- 🌱 **As an iOS developer progressing toward full-stack, I’m currently exploring the latest SwiftUI features, refining my Swift concurrency skills, and expanding my toolkit by learning both JavaScript and Python to deliver end-to-end solutions.**
 
 - 👨‍💻 All of my projects are available at **[Behance](https://www.behance.net/hugemistake)**
 
