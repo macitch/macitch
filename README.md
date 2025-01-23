@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **[@codepett](https://medium.com/@codepett)**
 
-- 💬 Ask me about **swiftui,swift,js, python & UI/UX.**
+- 💬 Ask me about **swiftui,swift,js & UI/UX.**
 
 - 📫 How to reach me **petritvosha@outlook.com**
 
