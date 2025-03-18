@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Petrit</h1>
 <h3 align="center">Passionate iOS Developer & UI/UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codepett&label=Profile%20views&color=0e75b6&style=flat" alt="codepett" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=macitch&label=Profile%20views&color=0e75b6&style=flat" alt="macitch" /> </p>
 
 - 🔭 I’m currently working on as a **Freelancer**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **[Behance](https://www.behance.net/hugemistake)**
 
-- 📝 I regularly write articles on **[@codepett](https://medium.com/@codepett)**
+- 📝 I regularly write articles on **[@macitch](https://medium.com/@macitch)**
 
 - 💬 Ask me about **swiftui,swift,js & UI/UX.**
 
@@ -38,4 +38,4 @@
   <img alt="Adobe Photoshop" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codepett&show_icons=true&locale=en&layout=compact" alt="codepett" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=macitch&show_icons=true&locale=en&layout=compact" alt="macitch" />
