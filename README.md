@@ -1,53 +1,90 @@
 <br>
 
-Hey there! 👋 I'm **Petrit Vosha**, an iOS developer and UI/UX designer based in Switzerland. I specialize in crafting **elegant**, **high-performing mobile apps** using **SwiftUI**, combining a strong sense of design with robust development.
-
-I’m currently focused on freelance projects and building my own products, while expanding my skillset in **Angular** and **Python** to become a full-stack mobile web developer. My approach is simple: build things that are intuitive, delightful, and useful — from concept to App Store.
-
-<br>
-
-## 🏆 Goals
-
-- 🚀 Deliver elegant, high-performing iOS applications for clients worldwide  
-- 🌐 Master Angular and Python to expand into full-stack mobile web development  
-- 📱 Launch my own indie apps and tools under my personal brand  
-- 🎨 Continue refining my UI/UX design skills through client work and experimentation  
-- 🧪 Embrace new frameworks and technologies to push creative boundaries  
-
-<br>
-
-## 🚀 Future Endeavors
-
-- 💼 Grow my freelance business and build a strong portfolio of cross-industry mobile apps  
-- 📚 Share knowledge through blogging, tutorials, and tech writing  
-- 👨‍🏫 Explore speaking opportunities and teaching iOS/SwiftUI to new developers  
-- 🤝 Actively contribute to open-source and support the dev/design community  
-- 💡 Build and release my own products — combining sleek design with robust engineering  
-
-<br>
-
-## 📈 Achievements
-
-- 📲 Launched 6 iOS apps — including products for insurance, food service, and business discovery  
-- 🧑‍🎨 Designed and developed all apps solo, from Figma mockups to App Store release  
-- 💼 Trusted by companies for freelance development of high-quality, user-centric mobile solutions  
-- ✍️ Published insights and development tips on [Medium](https://medium.com/@macitch)  
-- 🎓 Pursuing an official diploma as a **Mobile Web Application Developer**  
-- 💬 Known for blending design + development fluently into intuitive, delightful user experiences  
-
-<br>
-
 <div align="center">
-    
-## 📫 Connect with Me
 
-I love transforming ideas into apps. If you're looking for an iOS developer who values pixel-perfect UI and seamless UX — I'm your guy.
+# Petrit Vosha
 
-[![Email](https://img.shields.io/badge/-Email-ee234b?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:petritvosha@outlook.com)&nbsp;
+**Software Engineer | Full Stack · iOS · Cloud**
+
+Geneva, Switzerland 🇨🇭
+
+[![Email](https://img.shields.io/badge/-Email-000300?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:petritvosha@outlook.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000300?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/petritvosha)&nbsp;
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-000300?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21028245)
+[![Hugemistake](https://img.shields.io/badge/-Hugemistake-000300?style=for-the-badge&logo=safari&logoColor=white)](https://hugemistake.ch)
 
 </div>
+
+<br>
+
+Software engineer with 8+ years of experience building production-grade systems across backend, iOS, and full-stack web. I focus on system reliability, performance, and long-term maintainability, taking products from early prototypes to scalable platforms that support real operational workflows.
+
+Currently based in Geneva, running **[Hugemistake](https://hugemistake.ch)**, a creative development studio delivering web platforms and SaaS solutions. Previously Lead Software Engineer at **StrideMatch** (Paris), where I architected B2B/B2C platforms for clinical and retail workflows. Before that, 8 years shipping production iOS applications at **K-Media Labs**.
+
+<br>
+
+## 🔧 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-000300?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-000300?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000300?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000300?style=for-the-badge&logo=javascript&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-000300?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-000300?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000300?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-000300?style=for-the-badge&logo=ionic&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000300?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-000300?style=for-the-badge&logo=reactivex&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-000300?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000300?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-000300?style=for-the-badge&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-000300?style=for-the-badge&logo=graphql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000300?style=for-the-badge&logo=flask&logoColor=white)
+
+**iOS / Mobile**
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000300?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000300?style=for-the-badge&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-000300?style=for-the-badge&logo=apple&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core%20Data-000300?style=for-the-badge&logo=apple&logoColor=white)
+![AVFoundation](https://img.shields.io/badge/AVFoundation-000300?style=for-the-badge&logo=apple&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-000300?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000300?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000300?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000300?style=for-the-badge&logo=vercel&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000300?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-000300?style=for-the-badge&logo=git&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-000300?style=for-the-badge&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000300?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000300?style=for-the-badge&logo=figma&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-000300?style=for-the-badge&logo=fastlane&logoColor=white)
+
+<br>
+
+## 📦 Selected Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **Dash-e** | Angular · Ionic · Firebase · PWA | Real-time school management dashboard in production at Nomades Advanced Technology |
+| **Menly** | Next.js · TypeScript | Multilingual menu translation SaaS for hospitality businesses |
+| **Aioka** | Next.js · Python · FastAPI | Agent management platform with modular backend services and async processing |
+| **pWeather** | SwiftUI | Weather app with light/dark themes, geolocation, offline support, and smooth transitions |
+| **VeriGuard** | Swift · SwiftUI | Cross-platform authenticator for iOS and macOS |
+| **StructIn** | Python | CLI for codebase architecture analysis: AST parsing, dependency graphing, 90%+ test coverage |
+| **Bridgea** | Next.js · React · Firebase | High-performance SSR platform with optimized caching and SEO |
 
 <br>
 
@@ -55,67 +92,29 @@ I love transforming ideas into apps. If you're looking for an iOS developer who 
 
 <div align="center">
 
-![Petrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=macitch&show_icons=true&theme=dark&count_private=true&title_color=ee234b&text_color=fcfcfc&icon_color=ee234b&bg_color=000300)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macitch&layout=compact&theme=dark&title_color=ee234b&text_color=fcfcfc&bg_color=000300)
+![Petrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=macitch&show_icons=true&theme=dark&count_private=true&title_color=ffffff&text_color=fcfcfc&icon_color=ffffff&bg_color=000300&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macitch&layout=compact&theme=dark&title_color=ffffff&text_color=fcfcfc&bg_color=000300&hide_border=true)
 
 </div>
 
 <br>
 
+## 🎓 Certifications
 
-## 🛠️ Tech Stack
+- **Diplôme Full-Stack Developer** · Nomades Advanced Technologies · Mention Très Bien (5.5/6), 35 ECTS
+- **AWS Cloud Practitioner** · Amazon Web Services
+- **iOS Developer Certificate** · Meta / Coursera
 
-**Mobile Development**  
-![Swift](https://img.shields.io/badge/Swift-ee234b?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-ee234b?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-ee234b?style=for-the-badge&logo=apple&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core%20Data-ee234b?style=for-the-badge&logo=coreos&logoColor=white)
-![AVFoundation](https://img.shields.io/badge/AVFoundation-ee234b?style=for-the-badge&logo=apple&logoColor=white)
-![Alamofire](https://img.shields.io/badge/Alamofire-ee234b?style=for-the-badge&logo=swift&logoColor=white)
-![RxSwift](https://img.shields.io/badge/RxSwift-ee234b?style=for-the-badge&logo=reactivex&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-ee234b?style=for-the-badge&logo=apple&logoColor=white)
+<br>
 
-**Web Development**  
-![JavaScript](https://img.shields.io/badge/JavaScript-ee234b?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-ee234b?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-ee234b?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-ee234b?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-ee234b?style=for-the-badge&logo=angular&logoColor=white)
+<div align="center">
 
-**Back-End & Cloud**  
-![Node.js](https://img.shields.io/badge/Node.js-ee234b?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ee234b?style=for-the-badge&logo=firebase&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-ee234b?style=for-the-badge&logo=awsamplify&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-ee234b?style=for-the-badge&logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-ee234b?style=for-the-badge&logo=graphql&logoColor=white)
+🌍 English · German · French · Albanian
 
-**Developer Tools**  
-![Git](https://img.shields.io/badge/Git-ee234b?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ee234b?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-ee234b?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-ee234b?style=for-the-badge&logo=yarn&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-ee234b?style=for-the-badge&logo=fastlane&logoColor=white)
-![Xcode Instruments](https://img.shields.io/badge/Xcode%20Instruments-ee234b?style=for-the-badge&logo=xcode&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-ee234b?style=for-the-badge&logo=cocoapods&logoColor=white)
-![Swift Package Manager](https://img.shields.io/badge/SPM-ee234b?style=for-the-badge&logo=swift&logoColor=white)
+</div>
 
-**Design & Prototyping**  
-![Figma](https://img.shields.io/badge/Figma-ee234b?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-ee234b?style=for-the-badge&logo=sketch&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-ee234b?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-ee234b?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-ee234b?style=for-the-badge&logo=adobexd&logoColor=white)
-![Zeplin](https://img.shields.io/badge/Zeplin-ee234b?style=for-the-badge&logo=zeplin&logoColor=white)
-
-**Platforms & Environments**  
-![Xcode](https://img.shields.io/badge/Xcode-ee234b?style=for-the-badge&logo=xcode&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-ee234b?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-ee234b?style=for-the-badge&logo=vercel&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-ee234b?style=for-the-badge&logo=appstore&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-ee234b?style=for-the-badge&logo=docker&logoColor=white)
-
-</br>
+<br>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=macitch&label=Profile%20views&color=ee234b&style=flat" alt="macitch" />
+  <img src="https://komarev.com/ghpvc/?username=macitch&label=Profile%20views&color=000300&style=flat" alt="macitch" />
 </p>
