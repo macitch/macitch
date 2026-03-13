@@ -18,7 +18,7 @@ Geneva, Switzerland 🇨🇭
 
 Software engineer with 8+ years of experience building production-grade systems across backend, iOS, and full-stack web. I focus on system reliability, performance, and long-term maintainability, taking products from early prototypes to scalable platforms that support real operational workflows.
 
-Currently based in Geneva, running **[Hugemistake](https://hugemistake.ch)**, a creative development studio delivering web platforms and SaaS solutions. Previously Lead Software Engineer at **StrideMatch** (Paris), where I architected B2B/B2C platforms for clinical and retail workflows. Before that, 8 years shipping production iOS applications at **K-Media Labs**.
+Currently based in Geneva, running **[Hugemistake](https://hugemistake.ch)**, a creative development studio delivering web platforms and SaaS solutions. Also Lead Software Engineer at **StrideMatch** (Paris), where I architected B2B/B2C platforms for clinical and retail workflows. Before that, 8 years shipping production iOS applications at **K-Media Labs**.
 
 <br>
 
